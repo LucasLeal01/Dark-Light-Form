@@ -1,0 +1,4 @@
+Sites utilizados para os Icons: 
+https://cdnjs.com/libraries/font-awesome
+https://icons8.com.br/icons/set/user
+https://fontawesome.com/icons/moon?f=classic&s=solid
